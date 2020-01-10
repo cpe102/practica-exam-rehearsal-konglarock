@@ -1,6 +1,12 @@
 #include <iostream>
+using namespace std;
 
-//Write compress() here.
+
+string compress(string T){
+    string T [] = {1,4,7,10,13};
+    return T;
+
+} 
 
 int main()
 {
