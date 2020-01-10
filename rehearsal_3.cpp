@@ -1,6 +1,14 @@
 #include <iostream>
 
-//Write sumSqrt() here.
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+double sumSqrt(double N){
+    
+    return 
+}
+
 
 
 int main()
@@ -16,3 +24,4 @@ int main()
     cout << a << "\n" << b << "\n" << c << "\n" << d << "\n" << e << "\n" << f << "\n" << g << "\n";
 
 }
+
